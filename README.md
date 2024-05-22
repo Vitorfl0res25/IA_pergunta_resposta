@@ -1,1 +1,10 @@
 # IA_pergunta_resposta
+Minha inspiração para criar esse sistema surgiu da experiência com a nova ferramenta de conversação do ChatGPT Mobile, que despertou meu interesse em explorar ainda mais o potencial das tecnologias de inteligência artificial (IA). Para alcançar esse objetivo, utilizei uma combinação de técnicas avançadas, começando pelo reconhecimento de voz através de uma IA especializada, que transformou minha fala em texto de maneira precisa e eficiente.
+
+Em seguida, adotei os modelos transformers, renomados por sua capacidade de Processamento de Linguagem Natural (PLN), para lidar com a interpretação e extração de informações relevantes do texto. A utilização de pipelines otimizadas para tarefas específicas, como responder a perguntas e processar comandos, permitiu uma interação fluida e inteligente do sistema com o usuário.
+
+Para complementar essa experiência, integrei uma IA de fala através do pyttsx3, uma ferramenta versátil que transforma o texto em respostas sonoras naturais e envolventes. Isso não apenas tornou a comunicação mais acessível, mas também agregou uma camada de humanização à interação, aproximando o sistema das expectativas e necessidades dos usuários.
+
+Durante todo o processo de desenvolvimento, o uso do framework Torch se mostrou essencial. Conhecido por sua robustez e eficiência em construir e treinar modelos de aprendizado profundo, o Torch foi fundamental para garantir a qualidade e a escalabilidade do sistema, especialmente em ambientes dinâmicos e em tempo real.
+
+Essa jornada de integração de tecnologias de IA - desde o reconhecimento de voz até a geração de respostas sonoras em tempo real - destaca o potencial transformador dessas ferramentas na criação de soluções interativas e inteligentes. Estou ansioso para continuar explorando novas fronteiras e contribuir para o avanço da interação humano-máquina por meio da IA, enriquecendo cada vez mais a experiência dos usuários e impulsionando o desenvolvimento de sistemas mais sofisticados e intuitivos.
